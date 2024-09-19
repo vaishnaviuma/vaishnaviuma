@@ -21,7 +21,7 @@
 *  Python
 
 ### Internship🏢
- 2 months at Calibraint Tech, Chennai
+June 2023 to  Aug 2023   at Calibraint Technologies, Chennai
 
 ### Projects
  1. Language translator using android
