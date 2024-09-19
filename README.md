@@ -1,6 +1,6 @@
 # Hi there!
-## I am Vaishnavi 
-## * Currently pursuing my masters in Computer Application
+#### I am Vaishnavi 
+####  Currently pursuing my masters in Computer Application
 
 ## My career profile
 
