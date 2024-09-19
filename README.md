@@ -1,6 +1,6 @@
 My career profile
 
-EDUCATION
+EDUCATION🎓
 
 
 | qualification   | institution| year | Percentage/CGPA | 
@@ -16,7 +16,7 @@ TECHNICAL SKILLS
 *  C
 *  Python
 
- Internship
+ Internship🏢
  2 months at Calibraint Tech, Chennai
 
  Projects
